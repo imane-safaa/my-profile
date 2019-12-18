@@ -1,0 +1,45 @@
+/*colors and fonts */
+body {
+	font-family: 'open sans', sans-serif;
+	background-image: url("images/unknown-2.png");
+	background-size: 130%;
+	background-repeat: no-repeat;
+	font-family: times;
+	font-size: 19px;
+	}
+
+h1 { color: black
+	font-family: times ;
+	font-weight: 100;
+	letter-spacing: 2px;
+	font-size: 35px;
+} 
+
+a {
+	text-decoration: non;
+	color: purple;
+}
+a:hover {
+	color: red ;
+}
+#profil{
+	background: white;
+	margin: auto;
+	width: 50%;
+	padding: 15px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0);
+}
+ul{
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+li{
+	margin-bottom: 15px;
+	padding: 0px;
+}
+li {
+	display: inline;
+	padding: 10px;
+
+}
